@@ -1,4 +1,4 @@
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=theresaqueryforthat&show_icons=true&theme=nightowl)](https://github.com/theresaqueryforthat)
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=theresaqueryforthat&show_icons=true&theme=nightowl)](https://theresaqueryforthat.github.io/react_portfolio/)
 
 - 👋 Hi, I’m Ben Koenig.
 - 👀 I’m interested in Automation, UI/UX, Game Design, and being a part of a community focused on continuous learning.
