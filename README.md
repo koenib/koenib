@@ -1,4 +1,4 @@
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=theresaqueryforthat&show_icons=true&theme=tokyonight&hide=contribs)](https://theresaqueryforthat.github.io/react_portfolio/)
+[Check out my new profile!](https://github.com/taqft)
 
 - 👋 Hi, I’m Ben Koenig.
 - 👀 I’m interested in Automation, UI/UX, Game Design, and being a part of a community focused on continuous learning.
@@ -8,6 +8,6 @@
 - 📫 How to reach me - ben.koenig@live.com for personal/professional contact.
 
 <!---
-theresaqueryforthat/theresaqueryforthat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+taqft/theresaqueryforthat is a ✨ special ✨ repository because its `README.md` (this file) appeared on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
